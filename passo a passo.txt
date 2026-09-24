@@ -6,6 +6,11 @@
    pip install -r requirements.txt
    python manage.py runserver
 
+SE NÂO ACHAR O rest_framework, digite 
+   python -m pip install django djangorestframework
+SE NÃO ACHAR O cors_headers, digite
+   python -m pip install django-cors-headers
+
 2* no frontend
    npm install
    npm run dev
